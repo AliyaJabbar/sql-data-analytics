@@ -1,5 +1,4 @@
-# sql-data-analytics
-SQL analytics project built on cleaned data from my data warehouse, focusing on business insights, performance analysis, and reporting.
+
 # SQL Data Analytics Project
 
 This repository contains a collection of SQL scripts built on top of my **Data Warehouse Project**, which follows the **Bronze–Silver–Gold layer architecture**.  
